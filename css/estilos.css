@@ -1,0 +1,25 @@
+th.cabecera {
+  width: 14.28%;
+  text-align: center;
+}
+
+td.cuerpo{
+  text-align: center;
+  color: white;
+}
+
+td.hora{
+  text-align: center;
+}
+
+
+#regresar{
+  margin-bottom: 1.5em;
+  background-color: #039BE5;
+  color: white;
+}
+
+#generar{
+  background-color: #039BE5;
+  color: white;
+}
