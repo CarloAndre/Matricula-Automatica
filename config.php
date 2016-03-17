@@ -1,8 +1,8 @@
 <?php
 /* To be configured during installation */
-$db_host = '';
-$db_username = '';
+$db_host = 'localhost';
+$db_username = 'root';
 $db_password = '';
-$db_name = '';
+$db_name = 'Matricula';
 $conn = new mysqli($db_host, $db_username, $db_password,$db_name);
 ?>

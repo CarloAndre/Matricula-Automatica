@@ -23,3 +23,9 @@ td.hora{
   background-color: #039BE5;
   color: white;
 }
+
+.matricular{
+  float: right;
+  margin-top: -26.4em;
+  margin-right: -5em;
+}
